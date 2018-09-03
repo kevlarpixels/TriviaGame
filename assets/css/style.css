@@ -1,0 +1,11 @@
+body {
+    background-image: url(../images/pixarBackground.png);
+}
+
+.container {
+    margin-top: 6%;
+}
+
+#mainContent {
+    margin-top: 15%;
+}
