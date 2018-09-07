@@ -3,9 +3,39 @@ body {
 }
 
 .container {
-    margin-top: 6%;
+    margin-top: 5%;
+}
+
+.jumbotron {
+    padding: 2rem 2rem;
+}
+
+.center {
+    margin: 0, auto;
 }
 
 #mainContent {
-    margin-top: 15%;
+    margin-top: 8%;
 }
+
+p {
+    font-size: 25px;
+}
+
+.footer {
+    text-align: center;
+    color: #FFEE00;
+    font-size: 40px;
+}
+
+@media (min-width: 576px) and (max-width: 767px) {  
+    body {
+        background: none;
+      background-color: #86ABD9;
+    }
+
+    .footer {
+        text-align: center;
+        color: #FFEE00;
+        font-size: 70px;
+    }
