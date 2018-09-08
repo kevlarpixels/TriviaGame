@@ -11,4 +11,4 @@
 
 * On the final screen, show the number of correct answers, incorrect answers, and an option to restart the game (without reloading the page).# TriviaGame
 
-I had the thought of creating a trivia game of pixar questions. I made the illustrations from scratch.
+I had the thought of creating a trivia game of pixar questions. I made the illustrations from scratch for the mobile and web.
